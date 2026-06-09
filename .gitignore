@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Generated data (regenerate via scripts/generate_data.py)
+data/raw/
+data/processed/
+
+# Trained model binaries (regenerate via scripts/train.py)
+# Note: outputs/ PNGs + metrics.csv are kept so README plots render on GitHub
+models/*.joblib
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local tool settings
+.claude/
