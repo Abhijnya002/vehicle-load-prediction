@@ -23,7 +23,7 @@ enough to replace a chunk of those CAE runs?
 
 The answer here is **yes** for the synthetic test bed — the best models
 achieve **R² ≈ 0.99 on corner loads** and **R² ≈ 1.00 on chassis vibration
-RMS** on held-out drives.
+RMS** on held-out drives
 
 ---
 
